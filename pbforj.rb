@@ -1,11 +1,22 @@
 # Author: Kaycee Ingram (HippoDippo)
 
+def replace_space(string)
+  x = 0
+  while x < string.length
+    if (string[x] == ' ')
+      string[x] = '-'
+    end
+    x += 1
+  end
+end
+
 def create_file(name="", title="", ext="") # ext == extension (.markdown, .html, etc.)
   date_time = Time.new.to_s
   # Extracting the date for post file name.
   date_time_array = date_time.split
   date = date_time_array[0] + '-'
 
+  replace_space(name)
   file = File.new("#{date + name}.#{ext}", "w")
   file.puts("---\nlayout: post\ntitle: \"#{title}\"\ndate: #{date_time}\ncategories: Jekyll\n---\n")
   file.close
