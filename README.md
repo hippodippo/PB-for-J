@@ -29,9 +29,13 @@ Inside every Jekyll post file, a YAML [Front Matter](https://jekyllrb.com/docs/f
 (note: That is the default file settings above, if user does not provide any. You can easily change them later.) <br />
 (The default post file name is: 2017-05-25-pb-for-j.markdown) (The date will be different of course.) 
 
+<br />
 
-PB for J, does not require you to know any Ruby, or any programming at all. 
+PB for J does not require you to know any Ruby, or Programming at all. 
 
+Just follow the simple steps below:
+
+******************************************************************************************************************************
 1.) Jekyll bloggers can simply download the zip file. <br />
 
 2.) Once it is downloaded, unzip it and drag the "pbforj.rb" file to your Jekyll _posts directory. <br />
@@ -47,3 +51,4 @@ PB for J, does not require you to know any Ruby, or any programming at all.
 7.) To use PB for J to create a new post file, type `ruby pbforj.rb`<br /><br /> PB for J will execute and prompt you for the:<br /><br /> - Name of the file (pb for j) (dashes not required when choosing file name),<br /><br /> - Title of your new post (PB for J is awesome!),<br /><br /> - And the Extension of your file (markdown, html, etc.) (A dot `.` is not required when choosing the extension), just leave blank if you use markdown. <br />
 <br />
 YOUR DONE! NOW GET BLOGGING WITH JEKYLL!
+********************************************************************************************************************************
