@@ -14,7 +14,7 @@ The format for a Jekyll post file name:
 
 ****************************************************************
 
-As you can see from above, the Jekyll post file name, requires the current date in the name itself, followed by your chosen name.
+As you can see from above, the Jekyll post file name requires the current date in the name itself, followed by your chosen name.
 PB for J automatically syncs your computer's current date and adds it to the file name.
 Once it has added the date within the post file name, it will prompt you for the rest of the file name ("welcome-to-jekyll").
 
