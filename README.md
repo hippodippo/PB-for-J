@@ -42,7 +42,7 @@ Just follow the simple steps below:
 
 3.) Once the pbforj.rb file is placed within your _posts directory, go download [Ruby](https://www.ruby-lang.org/en/downloads/ "Ruby") if you do not already have it on your system. <br />
 
-4.) Once Ruby is successfully installed on your system, make sure Ruby can be accessed through your terminal. Try typing `ruby -v` to check. Windows users may have to include it in their path manually. <br />
+4.) Once Ruby is successfully installed on your system, make sure Ruby can be accessed through your terminal. Try typing `ruby -v` to check. Windows users may have to [include it in their path manually](https://stackoverflow.com/questions/26947427/how-do-i-add-ruby-to-the-path-variable-on-windows). <br />
 
 5.) Once you have verified that ruby is accessible through your terminal, you can now use PB for J. <br />
 
