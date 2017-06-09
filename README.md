@@ -3,8 +3,8 @@ Posts Builder for Jekyll<br />
 ------------------------
 If you have not looked into [Jekyll](https://jekyllrb.com/ "Jekyll"), the simple blog-aware static site generator, then I highly reccomend you do!
 
-I wrote this for myself, but Jekyll bloggers might find it useful.
-PB for J is a simple ruby script I wrote, to automate the process of creating a new post file in your Jekyll blog, located in the _posts directory.
+Whether you are rock climbing, spearfishing, or competing in the speed walking world championships, inspiration can strike at any moment. PB for J is here to ensure you continue to do what you do, and that's being awesome! Don't waste time carrying out the repetitive task of creating a new Jekyll Post, and allow PB for J to do it for you!
+PB for J is a simple ruby script I wrote to automate the process of creating a new post file in your Jekyll blog, located in the _posts directory.
 
 The format for a Jekyll post file name: 
 
