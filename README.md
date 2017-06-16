@@ -1,4 +1,4 @@
-# PB-for-J
+# PB for J
 Posts Builder for Jekyll<br />
 ------------------------
 If you have not looked into [Jekyll](https://jekyllrb.com/ "Jekyll"), the simple blog-aware static site generator, then I highly reccomend you do!
