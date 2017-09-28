@@ -48,7 +48,7 @@ Just follow the simple steps below:
 
 6.) To use PB for J, move into your Jekyll _posts directory, where you should find the pbforj.rb file from earlier. <br />
 
-7.) To use PB for J to create a new post file, type `ruby pbforj.rb`<br /><br /> PB for J will execute and prompt you for the:<br /><br /> - Name of the file (pb for j) (dashes not required when choosing file name),<br /><br /> - Title of your new post (PB for J is awesome!),<br /><br /> - And the Extension of your file (markdown, html, etc.) (A dot `.` is not required when choosing the extension), just leave blank if you use markdown. <br />
+7.) Once your in the _posts directory, create a new post file by typing `ruby pbforj.rb`<br /><br /> PB for J will execute and prompt you for the:<br /><br /> - Name of the file (pb for j) (dashes not required when choosing file name),<br /><br /> - Title of your new post (PB for J is awesome!),<br /><br /> - And the Extension of your file (markdown, html, etc.) (A dot `.` is not required when choosing the extension), just leave blank if you use markdown. <br />
 <br />
 YOUR DONE! NOW GET BLOGGING WITH JEKYLL!
 ********************************************************************************************************************************
