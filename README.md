@@ -36,7 +36,7 @@ PB for J does not require you to know any Ruby, or Programming at all.
 Just follow the simple steps below:
 
 ******************************************************************************************************************************
-1.) Jekyll bloggers can simply download the zip file. <br />
+1.) Simply download the zip file. <br />
 
 2.) Once it is downloaded, unzip it and drag the "pbforj.rb" file to your Jekyll _posts directory. <br />
 
