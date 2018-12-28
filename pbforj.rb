@@ -35,27 +35,8 @@ def pb_for_j
   print "File Extension: "
   ext = gets.chomp
 
-  # Default arguments.
-  # Need to clean this up.
-  if (name.empty? && !title.empty? && !ext.empty?)
-    create_file(name="pb-for-j", title, ext)
-  elsif (title.empty? && !ext.empty? && !name.empty?)
-    create_file(name, title="PB for J is awesome!", ext)
-  elsif (ext.empty? && !name.empty? && !title.empty?)
-    create_file(name, title, ext="markdown")
-  end
-
-  if (name.empty? && title.empty? && ext.empty?)
-    create_file(name="pb-for-j", title="PB for J is awesome!", ext="markdown")
-  elsif (name.empty? && title.empty?)
-    create_file(name="pb-for-j", title="PB for J is awesome!", ext)
-  elsif (name.empty? && ext.empty?)
-      create_file(name="pb-for-j", title, ext="markdown")
-  elsif (title.empty? && ext.empty?)
-    create_file(name, title="PB for J is awesome!", ext="markdown")
-  else
-    create_file(name, title, ext)
-  end
+  # Create new post.
+  create_file(name="pb-for-j", title="PB for J is awesome!", ext="markdown")
 end
 
 pb_for_j
